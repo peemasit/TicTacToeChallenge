@@ -1,0 +1,7 @@
+C:\Users\peema\source\repos\TicTacToeChallenge\TicTacToeChallenge\bin\Debug\TicTacToeChallenge.exe.config
+C:\Users\peema\source\repos\TicTacToeChallenge\TicTacToeChallenge\bin\Debug\TicTacToeChallenge.exe
+C:\Users\peema\source\repos\TicTacToeChallenge\TicTacToeChallenge\bin\Debug\TicTacToeChallenge.pdb
+C:\Users\peema\source\repos\TicTacToeChallenge\TicTacToeChallenge\obj\Debug\TicTacToeChallenge.csprojAssemblyReference.cache
+C:\Users\peema\source\repos\TicTacToeChallenge\TicTacToeChallenge\obj\Debug\TicTacToeChallenge.csproj.CoreCompileInputs.cache
+C:\Users\peema\source\repos\TicTacToeChallenge\TicTacToeChallenge\obj\Debug\TicTacToeChallenge.exe
+C:\Users\peema\source\repos\TicTacToeChallenge\TicTacToeChallenge\obj\Debug\TicTacToeChallenge.pdb
